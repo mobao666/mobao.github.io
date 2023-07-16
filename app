@@ -2,10 +2,10 @@
   "群KEY":"ObkGuAqbaPig2Ak3bFkQ9CQcNdCySJ-W",
   "客服QQ":"599939997",
   "客服微信":"Zuoci29",
-  "启动页图片":"http://null9.cn:81/1.png",
+  "启动页图片":"http://null9.cn:81/2.png",
   "启动页跳转":"https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
   "启动页标题":"软云口袋",
-  "启动页副标题":"搜罗全网软件汇集",
+  "启动页副标题":"null9.cn",
   "启动页跳转时间":"3",
 
   "公告标题":"软云口袋",
