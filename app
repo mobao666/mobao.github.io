@@ -1,5 +1,5 @@
 {
-  "群KEY":"smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T",
+  "群KEY":"smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
   "客服QQ":"599939997",
   "客服微信":"Zuoci29",
   "启动页图片":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1682089146317/%E7%94%BB%E6%9D%BF%201.jpg",
