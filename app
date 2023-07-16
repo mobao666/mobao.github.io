@@ -98,9 +98,9 @@
       "链接": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER"
     },
     {
-      "标题": "低价代刷网",
-      "图片": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1682090235356/a58d58dc50951534b224f18780a47ef74577.png",
-      "链接": "https://sssy.hengyide.cn"
+      "标题": "",
+      "图片": "",
+      "链接": ""
     }
   ],
   "官方通知": [
