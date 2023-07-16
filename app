@@ -64,6 +64,11 @@
       "链接": "https://rjy9.lanzoue.com/b02qp82od"
     },
     {
+      "标题": "破解游戏",
+      "任务": "关闭",
+      "链接": "https://rjy9.lanzoue.com/b02mmzrti"
+    },
+    {
       "标题": "软件合集",
       "任务": "关闭",
       "链接": "https://rjy9.lanzoue.com/s/rjy666"
