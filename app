@@ -6,7 +6,7 @@
   "启动页跳转":"https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
   "启动页标题":"软云口袋",
   "启动页副标题":"null9.cn",
-  "启动页跳转时间":"3",
+  "启动页跳转时间":"5",
 
   "公告标题":"软云口袋",
   "公告内容":"感谢兄弟们的下载支持\n——————\n●希望大家能多多分享●\n所有的软件都是破解过的\n软件下载保证全都是免费\n不会出现任何系列的收费\n软件好不好用大家都知道\n俗话说得好：有福应同享\n分享给你的好兄弟好姐妹\n！本软件永久免费使用！\n有事请联系微信Zuoci29",
