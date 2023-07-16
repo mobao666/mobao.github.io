@@ -31,57 +31,42 @@
 
   "界面一标题": "首页",
   "界面一副标题": "软云口袋",
-  "界面一文字": "官方公告",
+  "界面一文字": "热门活动",
   "界面二标题": "软件",
-  "界面二副标题": "搜罗全网软件汇集",
+  "界面二副标题": "学习资料和绿色软件都在这！分享软件更新更快！",
   "界面三标题": "发现",
-  "界面三副标题": "软云口袋",
+  "界面三副标题": "以下软云团队已亲测两年半以上！兄弟们放心冲即可！",
   "界面四标题": "更多",
-  "界面四副标题": "软云口袋",
+  "界面四副标题": "软件提示更新或无法使用请反馈微信Zuoci29",
   "界面四文字一": "软云口袋",
-  "界面四文字二": "v3.0",
+  "界面四文字二": "v1.0",
   "界面四文字三": "QQ599939997",
   "界面四远程一": "优惠券网",
   "界面四远程一网址": "http://cms.null9.cn/",
-  "界面四远程二": "官方微信",
+  "界面四远程二": "官方Q群",
   "微信一": "Zuoci29",
   "微信二": "a599939997",
-  "界面四远程二网址": "https://sourl.cn/zTTXBA",
+  "界面四远程二网址": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
   "软件分类": [
     {
-      "标题": "软件总合集",
+      "标题": "深夜学习",
       "任务": "关闭",
-      "链接": "https://xizhe.lanzoum.com/s/syrjk"
+      "链接": "https://rjy9.lanzoue.com/b02qpebuj"
     },
     {
-      "标题": "破解游戏",
+      "标题": "实用软件",
       "任务": "关闭",
-      "链接": "https://xizhe.lanzoum.com/b05vcy18h"
+      "链接": "https://rjy9.lanzoue.com/b02qp82qf"
     },
     {
-      "标题": "动漫小说影视",
+      "标题": "原创软件",
       "任务": "关闭",
-      "链接": "https://xizhe.lanzoum.com/b05vi9k3c"
+      "链接": "https://rjy9.lanzoue.com/b02qp82od"
     },
     {
-      "标题": "万能科技",
+      "标题": "软件合集",
       "任务": "关闭",
-      "链接": "https://xizhe.lanzoum.com/b05vi9jtc"
-    },
-    {
-      "标题": "LOL换皮助手",
-      "任务": "关闭",
-      "链接": "https://xizhe.lanzoum.com/b05vi9njg"
-    },
-    {
-      "标题": "学习资料",
-      "任务": "关闭",
-      "链接": "https://xizhe.lanzoum.com/b05vh919i"
-    },
-    {
-      "标题": "18岁游戏",
-      "任务": "关闭",
-      "链接": "https://xizhe.lanzoum.com/b05vi9m9a"
+      "链接": "https://rjy9.lanzoue.com/s/rjy666"
     }
   ],
   "任务标题": "任务名称",
