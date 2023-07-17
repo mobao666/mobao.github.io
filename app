@@ -115,12 +115,22 @@
       "时间": "2023-07-17 12:50:00",
       "图片": "https://pic.rmb.bdstatic.com/bjh/news/6275dfbea6a089eeb0da9238527609d62281.png",
       "链接": "http://xyinmw.ddkuaidobanchq6hb.cn/10782358"
+    },
+    {
+      "标题": "全网业务代刷网",
+      "时间": "2023-07-17 12:50:00",
+      "图片": "http://null9.cn:81/ds.png",
+      "链接": "https://zc.hengyide.cn/"
     }
   ],
   "发现": [
     {
       "标题": "软云优惠购",
       "链接": "http://cms.null9.cn"
+    },
+    {
+      "标题": "代刷网",
+      "链接": "https://zc.hengyide.cn/"
     }
   ],
   "软件列表置顶": [
