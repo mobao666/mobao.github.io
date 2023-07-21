@@ -47,31 +47,6 @@
   "界面五远程二": "官方Q群",
   "界面五远程二网址": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
   "软件分类": [
-    {
-      "标题": "深夜学习",
-      "任务": "关闭",
-      "链接": "https://rjy9.lanzoue.com/b02qpebuj"
-    },
-    {
-      "标题": "实用软件",
-      "任务": "关闭",
-      "链接": "https://rjy9.lanzoue.com/b02qp82qf"
-    },
-    {
-      "标题": "原创软件",
-      "任务": "关闭",
-      "链接": "https://rjy9.lanzoue.com/b02qp82od"
-    },
-    {
-      "标题": "破解游戏",
-      "任务": "关闭",
-      "链接": "https://rjy9.lanzoue.com/b02mmzrti"
-    },
-    {
-      "标题": "软件合集",
-      "任务": "关闭",
-      "链接": "https://rjy9.lanzoue.com/s/rjy666"
-    }
   ],
   "首页轮播图": [
   ],
