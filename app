@@ -47,70 +47,13 @@
   "界面五远程二": "",
   "界面五远程二网址": "",
   "软件分类": [
-    {
-      "标题": "深夜学习",
-      "任务": "关闭",
-      "链接": "https://rjy9.lanzoue.com/b02qpebuj"
-    },
-    {
-      "标题": "实用软件",
-      "任务": "关闭",
-      "链接": "https://rjy9.lanzoue.com/b02qp82qf"
-    },
-    {
-      "标题": "原创软件",
-      "任务": "关闭",
-      "链接": "https://rjy9.lanzoue.com/b02qp82od"
-    },
-    {
-      "标题": "破解游戏",
-      "任务": "关闭",
-      "链接": "https://rjy9.lanzoue.com/b02mmzrti"
-    },
-    {
-      "标题": "软件合集",
-      "任务": "关闭",
-      "链接": "https://rjy9.lanzoue.com/s/rjy666"
-    }
   ],
   "首页轮播图": [
-    {
-      "标题": "软云口袋",
-      "图片": "http://null9.cn:81/tt.png",
-      "链接": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER"
-    }
   ],
   "官方通知": [
-   {
-      "标题": "软云口袋官方QQ群",
-      "时间": "2023-07-17 12:50:00",
-      "图片": "http://null9.cn:81/tt.png",
-      "链接": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER"
-    },
-    {
-      "标题": "学生党宝妈赚钱神器",
-      "时间": "2023-07-17 12:50:00",
-      "图片": "https://pic.rmb.bdstatic.com/bjh/news/6275dfbea6a089eeb0da9238527609d62281.png",
-      "链接": "http://xyinmw.ddkuaidobanchq6hb.cn/10782358"
-    },
-    {
-      "标题": "全网业务代刷网",
-      "时间": "2023-07-17 12:50:00",
-      "图片": "http://null9.cn:81/ds.png",
-      "链接": "https://zc.hengyide.cn/"
-    }
   ],
   "线报": [
-    
   ],
   "发现": [
-     {
-      "标题": "软云优惠购",
-      "链接": "http://cms.null9.cn"
-    },
-    {
-      "标题": "代刷网",
-      "链接": "https://zc.hengyide.cn/"
-    }
   ]
 } 
