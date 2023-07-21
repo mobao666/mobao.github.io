@@ -47,6 +47,42 @@
   "界面五远程二": "官方Q群",
   "界面五远程二网址": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
   "软件分类": [
+       {
+      "标题": "精品软件",
+      "任务": "关闭",
+      "链接": "https://wwi.lanzoup.com/b06br3x2d",
+      "置顶": [
+      ]
+    },
+    {
+      "标题": "精品游戏",
+      "任务": "关闭",
+      "链接": "https://wwi.lanzoup.com/b06dm2lbg",
+      "置顶": [
+        
+      ]
+    },
+    {
+      "标题": "恰呱合集",
+      "任务": "关闭",
+      "链接": "https://wwi.lanzoup.com/b06dm30te",
+      "置顶": [
+        {
+          "name_all": "下载用QQ浏览器解压吃瓜",
+          "ico": "https://gchat.qpic.cn/gchatpic_new/202010001/202010001-2731142198-67A23E738272AAD655C4256AA7BF9CBA/0",
+          "url": "https://wwi.lanzoup.com/b06dm30te",
+          "time": "【置顶】"        
+        }
+      ]
+    },
+     {
+      "标题": "科学上网",
+      "任务": "关闭",
+      "链接": "https://www.baidu.com/",
+      "置顶": [
+        
+      ]
+    }
   ],
   "首页轮播图": [
   ],
