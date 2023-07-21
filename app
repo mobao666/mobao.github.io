@@ -97,24 +97,6 @@
     }
   ],
   "官方通知": [
-    {
-      "标题": "永久地址【必看】",
-      "时间": "2023-04-30 00:00:00",
-      "图片": "https://img.xqrjk.com/LightPicture/2023/05/e6b61a1403294efc.jpeg",
-      "链接": "https://sharechain.qq.com/639e085bb6281e542a92675fab4d20cc"
-    },
-    {
-      "标题": "吃瓜精彩内容点击下方-线报即可查看",
-      "时间": "2023-04-30 00:00:00",
-      "图片": "https://img.xqrjk.com/LightPicture/2023/05/d15f14ce69126d34.jpeg",
-      "链接": "https://docs.qq.com/doc/DRExTZlJ4SWd3dldB"
-    },
-    {
-      "标题": "公告声明",
-      "时间": "2023-04-30 00:00:00",
-      "图片": "https://img.xqrjk.com/LightPicture/2023/05/a9775c3c4f141ab2.jpeg",
-      "链接": "https://docs.qq.com/doc/DRExTZlJ4SWd3dldB"
-    }
   ],
     "发现": [
      ]
