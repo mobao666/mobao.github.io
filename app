@@ -15,7 +15,7 @@
   "公告按钮一跳转":"https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
   "公告按钮二":"已经加入",
   "公告按钮二跳转":"",
-  "公告按钮三":"",
+  "公告按钮三":"666",
   "公告按钮三跳转":"",
   
   "当前版本": "1.0",
