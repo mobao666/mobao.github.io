@@ -1,4 +1,5 @@
 {
+    "分享内容":"【绅士福利库APP】一款聚合性软件，吃瓜，写真，美图，绅士软件！赶快下载体验吧~https://wwi.lanzoup.com/iSFHr10h5nre 复制链接，去浏览器打开，就可以下载！",
   "群KEY":"ObkGuAqbaPig2Ak3bFkQ9CQcNdCySJ-W",
   "客服QQ":"599939997",
   "客服微信":"Zuoci29",
