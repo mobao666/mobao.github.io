@@ -117,13 +117,5 @@
     }
   ],
     "发现": [
-    {
-      "标题": "外卖红包",
-      "链接": "https://docs.qq.com/doc/DRFFvY3ZvV2lGTXZN"
-    },    
-    {
-      "标题": "赚钱软件",
-      "链接": "https://docs.qq.com/doc/DRGJyQkNxU0tsUWtZ"
-    }
      ]
 } 
