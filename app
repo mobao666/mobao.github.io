@@ -47,54 +47,8 @@
   "界面五远程二": "永久地址",
   "界面五远程二网址": "https://sharechain.qq.com/639e085bb6281e542a92675fab4d20cc",
   "软件分类": [
-    {
-      "标题": "精品软件",
-      "任务": "关闭",
-      "链接": "https://wwi.lanzoup.com/b06br3x2d",
-      "置顶": [
-      ]
-    },
-    {
-      "标题": "精品游戏",
-      "任务": "关闭",
-      "链接": "https://wwi.lanzoup.com/b06dm2lbg",
-      "置顶": [
-        
-      ]
-    },
-    {
-      "标题": "恰呱合集",
-      "任务": "关闭",
-      "链接": "https://wwi.lanzoup.com/b06dm30te",
-      "置顶": [
-        {
-          "name_all": "下载用QQ浏览器解压吃瓜",
-          "ico": "https://gchat.qpic.cn/gchatpic_new/202010001/202010001-2731142198-67A23E738272AAD655C4256AA7BF9CBA/0",
-          "url": "https://wwi.lanzoup.com/b06dm30te",
-          "time": "【置顶】"        
-        }
-      ]
-    },
-     {
-      "标题": "科学上网",
-      "任务": "关闭",
-      "链接": "https://www.baidu.com/",
-      "置顶": [
-        
-      ]
-    }
   ],
   "首页轮播图": [
-    {
-      "标题": "欢迎使用魔法科技学院旗下APP",
-      "图片": "https://pica.zhimg.com/80/v2-75b9fa335d2d22cfe0a01f534cfe9eac_720w.jpeg",
-      "链接": "https://wwi.lanzoup.com/b06dm30te"
-    },
-    {
-      "标题": "官方群聊",
-      "图片": "https://pic1.zhimg.com/80/v2-b8e8fd94cd5461c6e1e2e062d57a723f_720w.jpeg",
-      "链接": "https://sharechain.qq.com/639e085bb6281e542a92675fab4d20cc"
-    }
   ],
   "官方通知": [
   ],
