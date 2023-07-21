@@ -115,15 +115,5 @@
       "图片": "https://img.xqrjk.com/LightPicture/2023/05/a9775c3c4f141ab2.jpeg",
       "链接": "https://docs.qq.com/doc/DRExTZlJ4SWd3dldB"
     }
-  ],
-  "发现": [
-    {
-      "标题": "外卖红包",
-      "链接": "https://docs.qq.com/doc/DRFFvY3ZvV2lGTXZN"
-    },    
-    {
-      "标题": "赚钱软件",
-      "链接": "https://docs.qq.com/doc/DRGJyQkNxU0tsUWtZ"
-    }
   ]
 } 
