@@ -112,13 +112,5 @@
       "标题": "代刷网",
       "链接": "https://zc.hengyide.cn/"
     }
-  ],
-  "软件列表置顶": [
-    {
-      "name_all": "回家的路",
-      "ico": "https://tse4-mm.cn.bing.net/th?q=Qq%e7%be%a4%e5%9b%be%e7%89%87&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=zh-CN&cc=CN&setlang=zh-Hans&adlt=strict&t=1&mw=247",
-      "url": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
-      "time": "点击加入"
-    }
   ]
 } 
