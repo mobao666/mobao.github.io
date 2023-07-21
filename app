@@ -47,50 +47,110 @@
   "界面五远程二": "官方Q群",
   "界面五远程二网址": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
   "软件分类": [
-       {
-      "标题": "精品软件",
+    {
+      "标题": "深夜学习",
       "任务": "关闭",
-      "链接": "https://wwi.lanzoup.com/b06br3x2d",
+      "链接": "https://rjy9.lanzoue.com/b02qpebuj",
       "置顶": [
-      ]
+    {
+      "name_all": "回家的路",
+      "ico": "https://tse4-mm.cn.bing.net/th?q=Qq%e7%be%a4%e5%9b%be%e7%89%87&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=zh-CN&cc=CN&setlang=zh-Hans&adlt=strict&t=1&mw=247",
+      "url": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
+      "time": "点击加入"
+    }
+  ]
     },
     {
-      "标题": "精品游戏",
+      "标题": "实用软件",
       "任务": "关闭",
-      "链接": "https://wwi.lanzoup.com/b06dm2lbg",
-      "置顶": [
-        
-      ]
+      "链接": "https://rjy9.lanzoue.com/b02qp82qf",
+        "置顶": [
+    {
+      "name_all": "回家的路",
+      "ico": "https://tse4-mm.cn.bing.net/th?q=Qq%e7%be%a4%e5%9b%be%e7%89%87&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=zh-CN&cc=CN&setlang=zh-Hans&adlt=strict&t=1&mw=247",
+      "url": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
+      "time": "点击加入"
+    }
+  ]
     },
     {
-      "标题": "恰呱合集",
+      "标题": "原创软件",
       "任务": "关闭",
-      "链接": "https://wwi.lanzoup.com/b06dm30te",
-      "置顶": [
-        {
-          "name_all": "下载用QQ浏览器解压吃瓜",
-          "ico": "https://gchat.qpic.cn/gchatpic_new/202010001/202010001-2731142198-67A23E738272AAD655C4256AA7BF9CBA/0",
-          "url": "https://wwi.lanzoup.com/b06dm30te",
-          "time": "【置顶】"        
-        }
-      ]
+      "链接": "https://rjy9.lanzoue.com/b02qp82od",
+        "置顶": [
+    {
+      "name_all": "回家的路",
+      "ico": "https://tse4-mm.cn.bing.net/th?q=Qq%e7%be%a4%e5%9b%be%e7%89%87&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=zh-CN&cc=CN&setlang=zh-Hans&adlt=strict&t=1&mw=247",
+      "url": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
+      "time": "点击加入"
+    }
+  ]
     },
-     {
-      "标题": "科学上网",
+    {
+      "标题": "破解游戏",
       "任务": "关闭",
-      "链接": "https://www.baidu.com/",
-      "置顶": [
-        
-      ]
+      "链接": "https://rjy9.lanzoue.com/b02mmzrti",
+        "置顶": [
+    {
+      "name_all": "回家的路",
+      "ico": "https://tse4-mm.cn.bing.net/th?q=Qq%e7%be%a4%e5%9b%be%e7%89%87&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=zh-CN&cc=CN&setlang=zh-Hans&adlt=strict&t=1&mw=247",
+      "url": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
+      "time": "点击加入"
+    }
+  ]
+    },
+    {
+      "标题": "软件合集",
+      "任务": "关闭",
+      "链接": "https://rjy9.lanzoue.com/s/rjy666",
+        "置顶": [
+    {
+      "name_all": "回家的路",
+      "ico": "https://tse4-mm.cn.bing.net/th?q=Qq%e7%be%a4%e5%9b%be%e7%89%87&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=zh-CN&cc=CN&setlang=zh-Hans&adlt=strict&t=1&mw=247",
+      "url": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
+      "time": "点击加入"
+    }
+  ]
     }
   ],
   "首页轮播图": [
+    {
+      "标题": "软云口袋",
+      "图片": "http://null9.cn:81/tt.png",
+      "链接": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER"
+    }
   ],
   "官方通知": [
+   {
+      "标题": "软云口袋官方QQ群",
+      "时间": "2023-07-17 12:50:00",
+      "图片": "http://null9.cn:81/tt.png",
+      "链接": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER"
+    },
+    {
+      "标题": "学生党宝妈赚钱神器",
+      "时间": "2023-07-17 12:50:00",
+      "图片": "https://pic.rmb.bdstatic.com/bjh/news/6275dfbea6a089eeb0da9238527609d62281.png",
+      "链接": "http://xyinmw.ddkuaidobanchq6hb.cn/10782358"
+    },
+    {
+      "标题": "全网业务代刷网",
+      "时间": "2023-07-17 12:50:00",
+      "图片": "http://null9.cn:81/ds.png",
+      "链接": "https://zc.hengyide.cn/"
+    }
   ],
   "线报": [
     
   ],
   "发现": [
+     {
+      "标题": "软云优惠购",
+      "链接": "http://cms.null9.cn"
+    },
+    {
+      "标题": "代刷网",
+      "链接": "https://zc.hengyide.cn/"
+    }
   ]
 } 
