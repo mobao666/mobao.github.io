@@ -105,10 +105,10 @@
   ],
   "官方通知": [
     {
-      "标题": "软云口袋官方QQ群",
+      "标题": "软云口袋公告声明",
       "时间": "2023-07-17 12:50:00",
       "图片": "http://null9.cn:81/tt.png",
-      "链接": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER"
+      "链接": "http://a.null9.cn:81/"
     },
     {
       "标题": "人人可撸15-18 必得！",
