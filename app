@@ -144,7 +144,7 @@
       "name_all": "快喵（深夜隐藏板块）",
       "ico": "http://null9.cn:81/km.png",
       "url": "https://apk.zaidoupao.com/psd_keep_hclmkm39.apk",
-      "time": "请勿相信主动找你聊天的，只看视频即可"
+      "time": "请勿相信任何广告，只看视频即可"
     }
   ]
 }
