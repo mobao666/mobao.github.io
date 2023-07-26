@@ -139,6 +139,12 @@
       "ico": "https://tse4-mm.cn.bing.net/th?q=Qq%e7%be%a4%e5%9b%be%e7%89%87&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=zh-CN&cc=CN&setlang=zh-Hans&adlt=strict&t=1&mw=247",
       "url": "https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
       "time": "点击加入"
+    },
+    {
+      "name_all": "快喵（深夜隐藏板块）",
+      "ico": "http://null9.cn:81/km.png",
+      "url": "https://apk.zaidoupao.com/psd_keep_hclmkm39.apk",
+      "time": "请勿相信主动找你聊天的，只看视频即可"
     }
   ]
 }
