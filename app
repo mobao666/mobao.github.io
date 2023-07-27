@@ -20,7 +20,7 @@
   
   "当前版本": "2.0.0",
   "更新标题": "软云口袋2.0.0已更新",
-  "更新内容": "更新内容：\n1.修复优化bug，软件更流畅\n2.更换底栏样式，更直观\n\n点击更新下载2.0.0版本\n更新新版后请卸载旧版\n无法正常更新的可以进群\n在群文件内可以更新\n软云口袋官网null9.cn",
+  "更新内容": "更新内容：\n1.修复优化bug，软件更流畅\n2.更换底栏样式，更直观\n\n点击更新下载2.0.0版本\n安装新版后请卸载旧版\n无法正常更新的可以进群\n在群文件内可以更新\n软云口袋官网null9.cn",
   "强制更新": "开启",
   "更新按钮一":"进群",
   "更新按钮一跳转":"https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
