@@ -23,7 +23,7 @@
   "更新内容": "更新内容：\n1.修复深色模式bug，软件更流畅\n\n点击更新下载3.0.0版本\n新版安装不上的请卸载旧版\n无法正常更新的可以进群\n在群文件内可以更新\n软云口袋官网null9.cn",
   "强制更新": "开启",
   "更新按钮一":"进群",
-  "更新按钮一跳转":"https://qm.qq.com/cgi-bin/qm/qr?k=fwPv3vCkjZcQ-jyjGsf0aAfVSHV4q5gu&jump_from=webapi&authKey=smDUXuN89F41Vf9Xw9bC0HrcSgLfo5HrR2QfV+T/3Sh+NWDoGrR/eAmkKYafKtER",
+  "更新按钮一跳转":"http://a.null9.cn:81/index.php/qun.html",
   "更新按钮二":"更新",
   "更新按钮二跳转":"https://rjy9.lanzoue.com/rykd",
   "更新按钮三":"更新",
