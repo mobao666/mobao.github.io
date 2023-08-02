@@ -1,5 +1,5 @@
 {
-  "群KEY":"ObkGuAqbaPig2Ak3bFkQ9CQcNdCySJ-W",
+  "群KEY":"ObkGuAqbaPig2Ak3bFkQ9CQcNdCySJ-",
   "客服QQ":"599939997",
   "客服微信":"Zuoci29",
   "启动页图片":"http://null9.cn:81/启动页.png",
